@@ -3,7 +3,7 @@
  
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **CC50: Introdução à Ciência da Computação - O Curso de Harvard, no Brasil.**
+| :sparkles: Nome        | **CC50: Curso de Harvard, no Brasil.**
 | :label: Tecnologias | Scratch, C (arrays, algorithms, memory and data structure), Python, SQL, HTML, CSS, Javascript, Flask and ethics.
 
 ## Detalhes do projeto
